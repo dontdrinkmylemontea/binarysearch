@@ -101,4 +101,5 @@ class BinarySearch extends Component {
     );
   }
 }
+
 export default BinarySearch;
