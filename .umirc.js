@@ -1,7 +1,11 @@
 // ref: https://umijs.org/config/
+const pathName = './';
+
 export default {
-  base: '/binarysearch/',
   treeShaking: true,
+  base: pathName,
+  publicPath: pathName,
+  history: 'hash',
   routes: [
     {
       path: '/',
