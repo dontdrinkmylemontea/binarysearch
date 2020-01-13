@@ -1,6 +1,6 @@
 // ref: https://umijs.org/config/
 export default {
-  base: 'binarysearch',
+  base: '/binarysearch/',
   treeShaking: true,
   routes: [
     {
