@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Card, Icon, Spin } from 'antd';
+import { Icon, Spin } from 'antd';
+import Card from '../Card/Card';
 import { algosWorker } from '../../workerhelper.js';
 import styles from './FunctionCard.less';
 
